@@ -1,2 +1,0 @@
-123
-test to request of branches merge 
